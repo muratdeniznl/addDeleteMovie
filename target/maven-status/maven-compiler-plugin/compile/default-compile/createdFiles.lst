@@ -1,0 +1,5 @@
+com\appiekap\movietheater\repository\MovieRepository.class
+com\appiekap\movietheater\MovietheaterApplication.class
+com\appiekap\movietheater\exception\NotFoundException.class
+com\appiekap\movietheater\controller\MovieController.class
+com\appiekap\movietheater\model\Movie.class
